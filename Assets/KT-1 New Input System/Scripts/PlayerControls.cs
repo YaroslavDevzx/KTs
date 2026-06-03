@@ -121,8 +121,8 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                 {
                     ""name"": ""Zoom"",
                     ""type"": ""Value"",
-                    ""id"": ""bde8e750-d047-4dc6-b091-f0a95c902dcb"",
-                    ""expectedControlType"": ""Vector2"",
+                    ""id"": ""bd21f185-af01-4dab-a2cd-51cc64d3d171"",
+                    ""expectedControlType"": ""Axis"",
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": true
@@ -241,8 +241,8 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                 },
                 {
                     ""name"": """",
-                    ""id"": ""aec5e6c0-2cad-48a7-8e67-fcf24f13da2f"",
-                    ""path"": ""<Mouse>/scroll"",
+                    ""id"": ""125f26d7-28e9-4c66-9e17-1b34686e8f2b"",
+                    ""path"": ""<Mouse>/scroll/y"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
